@@ -1,0 +1,42 @@
+.titleBox{ 
+	width: 80%;
+	margin-left:10%;
+    text-align: center;
+}
+
+.poop! {
+    width: 30%;
+}
+
+.statementBox {
+    width: 70%;
+}
+
+.all {
+    display: flex;
+    width: 100%;
+}
+h1 {
+    font-size: 25px;
+}
+.icon{
+    height: 30px;
+    width: auto;
+}
+
+.imgBox {
+    margin-top: 2px;
+}
+.explaintheme {
+    font-size: 20px;
+    color: #e83929;
+}
+.sammaryBox {
+    width 40%;
+    text-align: center;
+    border: solid 1px;
+    
+}
+.sammary {
+    color: crimson;
+}
