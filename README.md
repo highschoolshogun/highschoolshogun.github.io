@@ -1,1 +1,0 @@
-# highschoolshogun.github.io
